@@ -1,0 +1,5 @@
+C:/Users/Lain/CLionProjects/ToDoList/cmake-build-debug/CMakeFiles/ToDoList.dir
+C:/Users/Lain/CLionProjects/ToDoList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lain/CLionProjects/ToDoList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lain/CLionProjects/ToDoList/cmake-build-debug/CMakeFiles/ToDoList_autogen_timestamp_deps.dir
+C:/Users/Lain/CLionProjects/ToDoList/cmake-build-debug/CMakeFiles/ToDoList_autogen.dir
